@@ -56,21 +56,7 @@ Check 500 000 Passwords in 30 seconds,
     
     (2) Please on your mobile data or Wi-fi 
     
-
     (3) Install the All packages provided by the developer correctly.
-    
-    
-
-
-
-     
-
-   
-
-    
-
-
-        
 
     (4) Then install the requirements provided by the developer.
 
