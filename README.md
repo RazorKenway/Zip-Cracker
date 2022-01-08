@@ -17,8 +17,7 @@
 <br>
 
 * This is a Very powerfull Zip File Crack tool for termux users.
-
-Check 500 000 Passwords in 30 seconds, 
+  Check 500 000 Passwords in 30 seconds
 
 ## Unique Performance 
 
