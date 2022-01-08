@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/Razor Kenway-R Bomber-blueviolet?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/Razor Kenway-Zip Cracker-blueviolet?style=for-the-badge&logo=appveyor"></a>
 
 <p align="center">
 
@@ -53,14 +53,22 @@ Check 500 000 Passwords in 30 seconds,
     
 
     (1) First make sure your All packages are updated.
-
-        
-
+    
     (2) Please on your mobile data or Wi-fi 
-
     
 
     (3) Install the All packages provided by the developer correctly.
+    
+    
+
+
+
+     
+
+   
+
+    
+
 
         
 
