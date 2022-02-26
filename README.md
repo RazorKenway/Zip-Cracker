@@ -2,7 +2,7 @@
 
 <a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-Zip Cracker-brightgreen?style=for-the-badge&logo=appveyor"></a>
 
-## Video Lesson : 
+## Video Lesson : https://youtu.be/ABgwcVF5wLU
 
 <img src="Zip-Cracker.png"/>
 
